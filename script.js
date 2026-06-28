@@ -22,7 +22,7 @@ const stages = [
     }
 ];
 
-const FINAL_STORY_TEXT = "Pr0m3theu$";
+const FINAL_STORY_TEXT = "My sufferings are from fire, yet they do not burn me, My body is turned inside out, yet every day I remain whole, My torments are immeasurable, yet not for a deadly sin. Who am I?";
 
 const sceneImage = document.getElementById("sceneImage");
 const finalText = document.getElementById("finalText");
